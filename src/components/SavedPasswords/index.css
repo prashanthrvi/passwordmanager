@@ -1,0 +1,95 @@
+.savedpasswords-container {
+  background-color: #72f2eb;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 6px;
+  margin-top: 13px;
+  margin-bottom: 21px;
+  padding-bottom: 19px;
+}
+.topsection-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.password-count-card {
+  display: flex;
+  align-items: center;
+}
+.count {
+  margin-left: 4px;
+  border-radius: 5px;
+  border: 1px solid blanchedalmond;
+  padding: 0px 4px 0px 4px;
+}
+.align-search {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  background-color: whitesmoke;
+  width: 40%;
+  border-radius: 3px;
+}
+h5 {
+  color: black;
+}
+.search-icon {
+  width: 17px;
+}
+.showpasswords-card {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.nopasswords-img {
+  width: 90%;
+}
+.password-container-ul {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-left: 0px;
+}
+.password-lists-li {
+  list-style-type: none;
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid snow;
+  border-radius: 3px;
+  padding: 7px 9px 7px 9px;
+  background-color: turquoise;
+  color: aliceblue;
+  margin-bottom: 7px;
+}
+.icon-bg {
+  background-color: brown;
+  border-radius: 69px;
+  width: 70px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.name-pw-card {
+  margin-left: 13px;
+}
+.website-text {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.name-text {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.delete-icon {
+  width: 20px;
+  height: 20px;
+}

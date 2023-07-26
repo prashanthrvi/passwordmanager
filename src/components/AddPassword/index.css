@@ -1,0 +1,66 @@
+.addpassword-container {
+  background-color: #72f2eb;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 6px;
+  margin-bottom: 11px;
+}
+.password-manager-img {
+  width: 90%;
+  margin: 7px 4px 7px 4px;
+}
+.addpassword-card {
+  background-color: #00ccbf;
+  width: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  margin-bottom: 13px;
+}
+h4 {
+  color: azure;
+  text-align: left;
+}
+form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 7px;
+}
+.icons {
+  width: 17px;
+  height: 17px;
+  margin-left: 0px;
+  margin-right: 7px;
+}
+.align-icon-input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  border-radius: 3px;
+  background-color: whitesmoke;
+  margin-bottom: 7px;
+  padding: 9px;
+}
+input {
+  /* border: 0px 0px 0px 1px solid gray; */
+  outline: none;
+  background-color: transparent;
+  border: 0px;
+}
+.add-button {
+  margin-bottom: 4px 4px 4px 120px;
+  background-color: blueviolet;
+  color: aliceblue;
+  padding: 3px 9px 3px 9px;
+  border-radius: 4px;
+  border: 0px;
+}
